@@ -107,7 +107,7 @@ author:
   name             : "I-DRAIN"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
-  location         : "https://www.google.com/maps/place/University+of+Illinois+Urbana-Champaign/data=!4m7!3m6!1s0x880cd724a92655e9:0xa53c0525046826fa!8m2!3d40.1019523!4d-88.2271615!16zL20vMDIyMHE2!19sChIJ6VUmqSTXDIgR-iZoBCUFPKU?authuser=0&hl=en&rclk=1"
+  location         : "Urbana - IL"
   email            : "luciano8@illinois.edu"
   links:
     - label: "Email"
