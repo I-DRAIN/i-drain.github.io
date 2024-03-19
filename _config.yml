@@ -112,10 +112,10 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-       url: "mailto:luciano8@illinois.edu"
+       # url: "mailto:luciano8@illinois.edu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-       url: "https://i-drain.github.io"
+       # url: "https://i-drain.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
